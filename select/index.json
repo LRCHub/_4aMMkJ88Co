@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "都営大江戸線の六本木駅で抱きしめて／CHICA#TETSU",
+  "base_artist": "BEYOOOOONDS",
+  "createdAt": "2026-02-19T13:01:04.892248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "都営大江戸線の六本木駅で抱きしめて",
+      "artist": "CHICA#TETSU",
+      "has_synced": false,
+      "path": "select/01_都営大江戸線の六本木駅で抱きしめて_CHICA_TETSU.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "都営大江戸線の六本木駅で抱きしめて",
+      "artist": "BEYOOOOONDS",
+      "has_synced": false,
+      "path": "select/pl_01_都営大江戸線の六本木駅で抱きしめて_BEYOOOOONDS.txt"
+    }
+  ]
+}
